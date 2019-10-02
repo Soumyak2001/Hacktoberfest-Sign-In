@@ -1,4 +1,4 @@
-# Hacktoberfest Sign In Sheet 2017!
+# Hacktoberfest Sign In Sheet 2019!
 The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
 
 ## Instruction
@@ -28,3 +28,4 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
 ### Installation
 
 Make sure [git](https://git-scm.com/book/id/v2/Getting-Started-Installing-Git) is installed.
+Hacktoberfest 2019
