@@ -29,3 +29,4 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
 
 Make sure [git](https://git-scm.com/book/id/v2/Getting-Started-Installing-Git) is installed.
 Hacktoberfest 2019
+Beware of bugs
